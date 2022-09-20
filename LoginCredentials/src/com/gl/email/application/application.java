@@ -18,7 +18,7 @@ public class application {
 		System.out.println("1. Technical (tech)");
 		System.out.println("2. Admin (admin)");
 		System.out.println("3. Human Resource (hr)");
-		System.out.println("4. Legal (");
+		System.out.println("4. Legal (legal)");
 
 		Scanner sc = new Scanner(System.in);
 				
